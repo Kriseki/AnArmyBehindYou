@@ -1,0 +1,457 @@
+/************MAIN************/
+nav {
+	font-family: 'Oswald', sans-serif;
+}
+
+a.nav-link {
+	margin-right: 30px;
+}
+
+#nav-right {
+	margin-right: auto;
+}
+
+body {
+	font-family: 'Oswald', sans-serif;
+}
+
+footer {
+	text-align: center;
+	border-top: 1px solid black;
+	height: 35px;
+}
+
+footer p {
+	margin-top: 5px;
+	height: 20px;
+}
+
+.scarf-picture-header {
+	font-family: 'Bungee', cursive;
+	text-align: center;
+	padding-top: 10%;
+	color: white;
+	opacity: .75;
+	font-size: 125px;
+	margin: auto;
+}
+
+.scarf-picture-text {
+	font-family: 'Bungee', cursive;
+	text-align: center;
+	color: white;
+	opacity: .75;
+	font-size: 50px;
+	margin: auto;
+}
+
+/************HOME***********/
+#main-picture {
+	background-image: url("images/ta2.jpg");
+	opacity: .9;
+	background-position: center; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	width: 98%;
+	height: 600px;
+	margin: auto;
+	margin-top: 100px;
+}
+
+#main-picture-text {
+	font-family: 'Bungee', cursive;
+	text-align: center;
+	padding-top: 20%;
+	color: white;
+	opacity: .75;
+	font-size: 125px;
+	margin: auto;
+}
+
+#main-content {
+	margin-top: 10px;
+}
+
+#welcome {
+	margin-top: 10%;
+	height: 200px;
+}
+
+#welcome-text {
+	width: 75%;
+	margin-top: 15px;
+	opacity: .6;
+}
+
+#twitter-feed {
+	margin-left: 20%;
+	margin-bottom: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#mid-banner {
+	background-image: url("images/ta7.jpg");
+	opacity: .9;
+	background-position: center; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	width: 98%;
+	margin: auto;
+	height: 600px;
+	margin-bottom: 15px;
+}
+
+#mid-banner-text {
+	font-family: 'Bungee', cursive;
+	width: 60%;
+	font-size: 125px;
+	text-align: center;
+	margin: auto;
+	color: white;
+	opacity: .75;
+}
+
+#mission {
+	width: 60%;
+	margin: auto;
+	margin-bottom: 200px;
+	margin-top: 50px;
+}
+
+#mission-text {
+	opacity: .8;
+}
+
+#contact-section {
+	width: 100%;
+	margin-bottom: 50px;
+	padding-left: 45%;
+}
+
+#contact-section a {
+	color: black;
+}
+
+#contact-email {
+	width: 30px;
+	border: 1px solid black;
+	border-radius: 3px;
+	padding-left: 6px;
+	margin: auto;
+	display: inline-block;
+}
+
+#contact-facebook {
+	margin: auto;
+	border: 1px solid black;
+	border-radius: 3px;
+	width: 30px;
+	display: inline-block;
+	padding-left: 10px;
+}
+
+#contact-twitter {
+	border: 1px solid black;
+	border-radius: 3px;
+	width: 30px;
+	display: inline-block;
+	padding-left: 6px;
+	height: 28px;
+}
+
+.contact-icon {
+	width: 21px;
+	height: 21px;
+}
+
+/**********2017***************/
+#seventeen-main-picture {
+	background-image: url("images/tifo1.jpg");
+	opacity: .9;
+	background-position: center; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	width: 98%;
+	height: 600px;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+.carousel-2017 {
+	width: 98%;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+.carousel-image {
+	height: 400px;
+}
+
+.carousel-header {
+	font-family: 'Bungee', cursive;
+	font-size: 35px;
+	color: black;
+}
+
+.carousel-text {
+	font-size: 20px;
+	color: black;
+	opacity: .8;
+}
+
+.carousel-caption {
+	position: absolute;
+	bottom: -30px;
+}
+
+.photo-container {
+	margin-left: 155px;
+}
+
+.polaroid {
+  width: 250px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+.polariod-container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+/**********2016**********************/
+#sixteen-main-picture {
+	background-image: url("images/tifo2.jpg");
+	opacity: .9;
+	background-position: center; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	width: 98%;
+	height: 600px;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+/**********ABOUT*********************/
+#about-main-picture {
+	background-image: url("images/scarvesup.jpg");
+	opacity: .9;
+	background-position: center; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	width: 98%;
+	height: 600px;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+#about-banner-text {
+	font-family: 'Bungee', cursive;
+	width: 60%;
+	font-size: 125px;
+	text-align: center;
+	margin: auto;
+	color: white;
+	opacity: .75;
+	padding-top: 80px;
+}
+
+#about-body {
+	width: 60%;
+	margin: auto;
+	margin-bottom: 100px;
+	margin-top: 50px;
+}
+
+#about-text {
+	opacity: .8;
+}
+
+/**********2015******************/
+#fifteen-main-picture {
+	background-image: url("images/tifo3.jpg");
+	opacity: .9;
+	background-position: center; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	width: 98%;
+	height: 600px;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+/**********CONTACT**************/
+#contact-main-picture {
+	background-image: url("images/sunshine.jpg");
+	opacity: .9;
+	background-position: center; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	width: 98%;
+	height: 600px;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+#contact-banner-text {
+	font-family: 'Bungee', cursive;
+	width: 60%;
+	font-size: 125px;
+	text-align: center;
+	margin: auto;
+	color: white;
+	opacity: .75;
+	padding-top: 80px;
+}
+
+#contact-body {
+	width: 60%;
+	margin: auto;
+	margin-bottom: 100px;
+	margin-top: 50px;
+}
+
+#contact-text {
+	opacity: .8;
+}
+
+#contact-header {
+	margin-top: -20px;
+	margin-left: 15%;
+}
+
+.contact-form-container {
+	width: 95%;
+	padding: 5px;
+	margin-left: 30%;
+	margin-bottom: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.contact-icon {
+	text-decoration: none;
+}
+
+.contact-links {
+	margin-left: 50%;
+	border-left: 1px solid black;
+	height: 95%;
+	padding-left: 5px;
+}
+
+#top-link {
+	margin-top: 10%;
+	margin-left: 10%;
+}
+
+.link-icons {
+	display: inline-block;
+}
+
+.contact-page-icon {
+	margin-right: 20px;
+
+}
+
+.reach-us {
+	margin-left: 50px;
+}
+
+.contact-logo {
+	height: 300px;
+	width: 300px;
+	margin-left: 350px;
+	margin-top: -300px;
+	background-image: url("images/logo1.png");
+	background-size: contain;
+}
+
+/**********LINKS***************/
+#links-main-picture {
+	background-image: url("images/ta6.jpg");
+	opacity: .9;
+	background-position: center; 
+	background-size: cover; 
+	background-repeat: no-repeat;
+	width: 98%;
+	height: 600px;
+	margin: auto;
+	margin-top: 100px;
+	margin-bottom: 50px;
+}
+
+#links-banner-text {
+	font-family: 'Bungee', cursive;
+	width: 60%;
+	font-size: 125px;
+	text-align: center;
+	margin: auto;
+	color: white;
+	opacity: .75;
+	padding-top: 150px;
+}
+
+.link-body {
+	margin-left: 47%;
+	margin-bottom: 50px;
+}
+
+.link-links {
+	margin-bottom: 35px;
+}
+
+.link-text {
+	text-decoration: none;
+}
+
+/**********HOVERS/ANIMATIONS*********/
+.icons:hover {
+	background-color: black;
+}
+
+#contact-section a:hover {
+	color: white;
+}
+
+.hideme
+{
+    opacity:0;
+}
+
+.link-text:hover {
+	text-decoration: none;
+	color: black;
+	opacity: .8;
+}
+
+/***********MEDIA QUERIES**********/
+@media only screen and (max-width: 1300px) {
+	#mid-banner-text {
+		font-size: 100px;
+	}
+
+	#mid-banner {
+		padding-top: 60px;
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	#mid-banner {
+		padding-top: 10px;
+	}
+
+	#welcome {
+		margin-left: 25px;
+	}
+
+	.last {
+		float: right;
+	}
+
+}
